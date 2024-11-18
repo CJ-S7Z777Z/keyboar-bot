@@ -1,1 +1,5 @@
 python-telegram-bot
+langdetect
+simpleeval
+requests
+asyncio
